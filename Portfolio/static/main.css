@@ -1,0 +1,48 @@
+#body{
+ background-color: rgb(245, 245, 245);
+}
+
+#brand-name {
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#nav{
+ background-color: rgb(255, 255, 255);
+ -webkit-box-shadow: 2px 2px 2px 2px rgb(15, 15, 15);
+ -moz-box-shadow: 2px 2px 1px 0px rgba(0, 0, 0, 0.37);
+ box-shadow: 2px 2px 1px 0px rgba(0, 0, 0, 0.178);
+}
+
+#footer {
+ font-size: 13px;
+}
+
+#img-circle {
+ border-radius: 50%;
+}
+
+#nav-dropdown-btn {
+ border-radius: 20%;
+}
+#resume-name{
+ text-align: left;
+ color: darkblue ;
+}
+.addr-info{
+text-align: left;
+margin-bottom: 0em;
+ color: rgb(71, 71, 71);
+}
+#sect-label{
+
+  color: darkblue;
+}
+#dates{
+  color: rgb(129, 129, 129);
+}
+#edu-info{
+ margin: 0em;
+}
+#lead{
+  margin-bottom: 0em;
+}
